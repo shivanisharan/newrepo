@@ -1,2 +1,3 @@
 TODO: add contents here
 Changes from newRepo located in git hub
+checking merging functionality
